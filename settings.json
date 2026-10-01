@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "AlmenaraSMP.aternos.me",
+    "port": 37987,
     "version": "",
     "try-creative": false
   },
